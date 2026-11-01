@@ -1,0 +1,2851 @@
+{
+  "version": 2,
+  "season": "2026-27",
+  "ratingScale": {
+    "worldClass": [
+      90,
+      99
+    ],
+    "elite": [
+      85,
+      89
+    ],
+    "upper": [
+      80,
+      84
+    ],
+    "regular": [
+      75,
+      79
+    ],
+    "rotation": [
+      70,
+      74
+    ],
+    "average": [
+      65,
+      69
+    ],
+    "prospect": [
+      55,
+      64
+    ],
+    "limited": [
+      0,
+      54
+    ]
+  },
+  "leagues": {
+    "프리미어리그": {
+      "country": "잉글랜드",
+      "clubs": [
+        "아스널",
+        "애스턴 빌라",
+        "본머스",
+        "브렌트퍼드",
+        "브라이턴",
+        "첼시",
+        "코번트리 시티",
+        "크리스털 팰리스",
+        "에버턴",
+        "풀럼",
+        "헐 시티",
+        "입스위치 타운",
+        "리즈 유나이티드",
+        "리버풀",
+        "맨체스터 시티",
+        "맨체스터 유나이티드",
+        "뉴캐슬 유나이티드",
+        "노팅엄 포레스트",
+        "선덜랜드",
+        "토트넘"
+      ]
+    },
+    "라리가": {
+      "country": "스페인",
+      "clubs": [
+        "레알 마드리드",
+        "바르셀로나",
+        "아틀레티코 마드리드",
+        "아틀레틱 클루브",
+        "레알 소시에다드",
+        "비야레알",
+        "레알 베티스",
+        "세비야",
+        "발렌시아",
+        "셀타 비고",
+        "오사수나",
+        "헤타페",
+        "알라베스",
+        "엘체",
+        "레반테",
+        "에스파뇰",
+        "말라가",
+        "라싱 산탄데르",
+        "데포르티보 라코루냐",
+        "라요 바예카노"
+      ]
+    },
+    "분데스리가": {
+      "country": "독일",
+      "clubs": [
+        "바이에른 뮌헨",
+        "보루시아 도르트문트",
+        "RB 라이프치히",
+        "바이어 레버쿠젠",
+        "슈투트가르트",
+        "아인트라흐트 프랑크푸르트",
+        "프라이부르크",
+        "호펜하임",
+        "마인츠",
+        "아우크스부르크",
+        "우니온 베를린",
+        "묀헨글라트바흐",
+        "함부르크",
+        "쾰른",
+        "베르더 브레멘",
+        "샬케 04",
+        "엘버스베르크",
+        "파더보른"
+      ]
+    },
+    "세리에 A": {
+      "country": "이탈리아",
+      "clubs": [
+        "인터 밀란",
+        "AC 밀란",
+        "유벤투스",
+        "나폴리",
+        "AS 로마",
+        "아탈란타",
+        "볼로냐",
+        "피오렌티나",
+        "라치오",
+        "토리노",
+        "코모",
+        "제노아",
+        "칼리아리",
+        "파르마",
+        "사수올로",
+        "우디네세",
+        "레체",
+        "프로시노네",
+        "몬차",
+        "베네치아"
+      ]
+    },
+    "리그 1": {
+      "country": "프랑스",
+      "clubs": [
+        "파리 생제르맹",
+        "마르세유",
+        "AS 모나코",
+        "릴",
+        "리옹",
+        "랑스",
+        "스트라스부르",
+        "렌",
+        "니스",
+        "브레스트",
+        "툴루즈",
+        "파리 FC",
+        "로리앙",
+        "오세르",
+        "트루아",
+        "르망",
+        "앙제",
+        "르아브르"
+      ]
+    }
+  },
+  "clubs": {
+    "아스널": {
+      "club": "아스널",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "부카요 사카",
+          "club": "아스널",
+          "league": "프리미어리그",
+          "position": "윙어",
+          "role": "인버티드 윙어",
+          "currentRating": 82,
+          "potentialRating": 84,
+          "rating": 82,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "애스턴 빌라": {
+      "club": "애스턴 빌라",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "존 맥긴",
+          "club": "애스턴 빌라",
+          "league": "프리미어리그",
+          "position": "중앙 미드필더",
+          "role": "박스 투 박스",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "본머스": {
+      "club": "본머스",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "에바니우송",
+          "club": "본머스",
+          "league": "프리미어리그",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "브렌트퍼드": {
+      "club": "브렌트퍼드",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "이고르 티아고",
+          "club": "브렌트퍼드",
+          "league": "프리미어리그",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "브라이턴": {
+      "club": "브라이턴",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "미토마 카오루",
+          "club": "브라이턴",
+          "league": "프리미어리그",
+          "position": "윙어",
+          "role": "인사이드 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "첼시": {
+      "club": "첼시",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "콜 파머",
+          "club": "첼시",
+          "league": "프리미어리그",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "코번트리 시티": {
+      "club": "코번트리 시티",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "하지 라이트",
+          "club": "코번트리 시티",
+          "league": "프리미어리그",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "크리스털 팰리스": {
+      "club": "크리스털 팰리스",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "아담 워튼",
+          "club": "크리스털 팰리스",
+          "league": "프리미어리그",
+          "position": "중앙 미드필더",
+          "role": "박스 투 박스",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "에버턴": {
+      "club": "에버턴",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "조던 픽퍼드",
+          "club": "에버턴",
+          "league": "프리미어리그",
+          "position": "골키퍼",
+          "role": "골키퍼",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "풀럼": {
+      "club": "풀럼",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "알렉스 이워비",
+          "club": "풀럼",
+          "league": "프리미어리그",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "헐 시티": {
+      "club": "헐 시티",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "모하메드 벨루미",
+          "club": "헐 시티",
+          "league": "프리미어리그",
+          "position": "윙어",
+          "role": "인버티드 윙어",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "입스위치 타운": {
+      "club": "입스위치 타운",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "훌리오 엔시소",
+          "club": "입스위치 타운",
+          "league": "프리미어리그",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "리즈 유나이티드": {
+      "club": "리즈 유나이티드",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "에단 암파두",
+          "club": "리즈 유나이티드",
+          "league": "프리미어리그",
+          "position": "중앙 미드필더",
+          "role": "볼 위닝 미드필더",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "리버풀": {
+      "club": "리버풀",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "플로리안 비르츠",
+          "club": "리버풀",
+          "league": "프리미어리그",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 82,
+          "potentialRating": 84,
+          "rating": 82,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "맨체스터 시티": {
+      "club": "맨체스터 시티",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "엘링 홀란",
+          "club": "맨체스터 시티",
+          "league": "프리미어리그",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 82,
+          "potentialRating": 84,
+          "rating": 82,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "맨체스터 유나이티드": {
+      "club": "맨체스터 유나이티드",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "브루노 페르난데스",
+          "club": "맨체스터 유나이티드",
+          "league": "프리미어리그",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "뉴캐슬 유나이티드": {
+      "club": "뉴캐슬 유나이티드",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "요안 위사",
+          "club": "뉴캐슬 유나이티드",
+          "league": "프리미어리그",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "노팅엄 포레스트": {
+      "club": "노팅엄 포레스트",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "모건 깁스화이트",
+          "club": "노팅엄 포레스트",
+          "league": "프리미어리그",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "선덜랜드": {
+      "club": "선덜랜드",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "그라니트 자카",
+          "club": "선덜랜드",
+          "league": "프리미어리그",
+          "position": "중앙 미드필더",
+          "role": "박스 투 박스",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "토트넘": {
+      "club": "토트넘",
+      "league": "프리미어리그",
+      "country": "잉글랜드",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "사비 시몬스",
+          "club": "토트넘",
+          "league": "프리미어리그",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "레알 마드리드": {
+      "club": "레알 마드리드",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "킬리안 음바페",
+          "club": "레알 마드리드",
+          "league": "라리가",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 82,
+          "potentialRating": 84,
+          "rating": 82,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "바르셀로나": {
+      "club": "바르셀로나",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "라민 야말",
+          "club": "바르셀로나",
+          "league": "라리가",
+          "position": "윙어",
+          "role": "인버티드 윙어",
+          "currentRating": 82,
+          "potentialRating": 84,
+          "rating": 82,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "아틀레티코 마드리드": {
+      "club": "아틀레티코 마드리드",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "훌리안 알바레스",
+          "club": "아틀레티코 마드리드",
+          "league": "라리가",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "아틀레틱 클루브": {
+      "club": "아틀레틱 클루브",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "니코 윌리엄스",
+          "club": "아틀레틱 클루브",
+          "league": "라리가",
+          "position": "윙어",
+          "role": "인사이드 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "레알 소시에다드": {
+      "club": "레알 소시에다드",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "미켈 오야르사발",
+          "club": "레알 소시에다드",
+          "league": "라리가",
+          "position": "스트라이커",
+          "role": "완성형 공격수",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "비야레알": {
+      "club": "비야레알",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "알렉스 바에나",
+          "club": "비야레알",
+          "league": "라리가",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "레알 베티스": {
+      "club": "레알 베티스",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "이스코",
+          "club": "레알 베티스",
+          "league": "라리가",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "세비야": {
+      "club": "세비야",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "유수프 포파나",
+          "club": "세비야",
+          "league": "라리가",
+          "position": "중앙 미드필더",
+          "role": "박스 투 박스",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "발렌시아": {
+      "club": "발렌시아",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "호세 가야",
+          "club": "발렌시아",
+          "league": "라리가",
+          "position": "수비수",
+          "role": "풀백",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "셀타 비고": {
+      "club": "셀타 비고",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "이아고 아스파스",
+          "club": "셀타 비고",
+          "league": "라리가",
+          "position": "스트라이커",
+          "role": "완성형 공격수",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "오사수나": {
+      "club": "오사수나",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "안테 부디미르",
+          "club": "오사수나",
+          "league": "라리가",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "헤타페": {
+      "club": "헤타페",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "마우로 아람바리",
+          "club": "헤타페",
+          "league": "라리가",
+          "position": "중앙 미드필더",
+          "role": "박스 투 박스",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "알라베스": {
+      "club": "알라베스",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "안토니오 블랑코",
+          "club": "알라베스",
+          "league": "라리가",
+          "position": "중앙 미드필더",
+          "role": "볼 위닝 미드필더",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "엘체": {
+      "club": "엘체",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "라파 미르",
+          "club": "엘체",
+          "league": "라리가",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "레반테": {
+      "club": "레반테",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "이반 로메로",
+          "club": "레반테",
+          "league": "라리가",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "에스파뇰": {
+      "club": "에스파뇰",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "하비 푸아도",
+          "club": "에스파뇰",
+          "league": "라리가",
+          "position": "스트라이커",
+          "role": "완성형 공격수",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "말라가": {
+      "club": "말라가",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "다니 로렌소",
+          "club": "말라가",
+          "league": "라리가",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "라싱 산탄데르": {
+      "club": "라싱 산탄데르",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "이니고 비센테",
+          "club": "라싱 산탄데르",
+          "league": "라리가",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "데포르티보 라코루냐": {
+      "club": "데포르티보 라코루냐",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "루카스 페레스",
+          "club": "데포르티보 라코루냐",
+          "league": "라리가",
+          "position": "스트라이커",
+          "role": "완성형 공격수",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "라요 바예카노": {
+      "club": "라요 바예카노",
+      "league": "라리가",
+      "country": "스페인",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "이시 팔라손",
+          "club": "라요 바예카노",
+          "league": "라리가",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "바이에른 뮌헨": {
+      "club": "바이에른 뮌헨",
+      "league": "분데스리가",
+      "country": "독일",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "해리 케인",
+          "club": "바이에른 뮌헨",
+          "league": "분데스리가",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 82,
+          "potentialRating": 84,
+          "rating": 82,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "보루시아 도르트문트": {
+      "club": "보루시아 도르트문트",
+      "league": "분데스리가",
+      "country": "독일",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "세루 기라시",
+          "club": "보루시아 도르트문트",
+          "league": "분데스리가",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "RB 라이프치히": {
+      "club": "RB 라이프치히",
+      "league": "분데스리가",
+      "country": "독일",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "얀 디오만데",
+          "club": "RB 라이프치히",
+          "league": "분데스리가",
+          "position": "윙어",
+          "role": "인사이드 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "바이어 레버쿠젠": {
+      "club": "바이어 레버쿠젠",
+      "league": "분데스리가",
+      "country": "독일",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "파트리크 시크",
+          "club": "바이어 레버쿠젠",
+          "league": "분데스리가",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "슈투트가르트": {
+      "club": "슈투트가르트",
+      "league": "분데스리가",
+      "country": "독일",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "데니스 운다브",
+          "club": "슈투트가르트",
+          "league": "분데스리가",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "아인트라흐트 프랑크푸르트": {
+      "club": "아인트라흐트 프랑크푸르트",
+      "league": "분데스리가",
+      "country": "독일",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "위고 에키티케",
+          "club": "아인트라흐트 프랑크푸르트",
+          "league": "분데스리가",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "프라이부르크": {
+      "club": "프라이부르크",
+      "league": "분데스리가",
+      "country": "독일",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "빈첸초 그리포",
+          "club": "프라이부르크",
+          "league": "분데스리가",
+          "position": "윙어",
+          "role": "인사이드 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "호펜하임": {
+      "club": "호펜하임",
+      "league": "분데스리가",
+      "country": "독일",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "안드레이 크라마리치",
+          "club": "호펜하임",
+          "league": "분데스리가",
+          "position": "스트라이커",
+          "role": "완성형 공격수",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "마인츠": {
+      "club": "마인츠",
+      "league": "분데스리가",
+      "country": "독일",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "나디엠 아미리",
+          "club": "마인츠",
+          "league": "분데스리가",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "아우크스부르크": {
+      "club": "아우크스부르크",
+      "league": "분데스리가",
+      "country": "독일",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "알렉시 클로드모리스",
+          "club": "아우크스부르크",
+          "league": "분데스리가",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "우니온 베를린": {
+      "club": "우니온 베를린",
+      "league": "분데스리가",
+      "country": "독일",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "로베르트 스코프",
+          "club": "우니온 베를린",
+          "league": "분데스리가",
+          "position": "윙어",
+          "role": "인사이드 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "묀헨글라트바흐": {
+      "club": "묀헨글라트바흐",
+      "league": "분데스리가",
+      "country": "독일",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "알라산 플레아",
+          "club": "묀헨글라트바흐",
+          "league": "분데스리가",
+          "position": "스트라이커",
+          "role": "완성형 공격수",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "함부르크": {
+      "club": "함부르크",
+      "league": "분데스리가",
+      "country": "독일",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "파비오 비에이라",
+          "club": "함부르크",
+          "league": "분데스리가",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "쾰른": {
+      "club": "쾰른",
+      "league": "분데스리가",
+      "country": "독일",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "린톤 마이나",
+          "club": "쾰른",
+          "league": "분데스리가",
+          "position": "윙어",
+          "role": "인사이드 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "베르더 브레멘": {
+      "club": "베르더 브레멘",
+      "league": "분데스리가",
+      "country": "독일",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "마르빈 두크슈",
+          "club": "베르더 브레멘",
+          "league": "분데스리가",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "샬케 04": {
+      "club": "샬케 04",
+      "league": "분데스리가",
+      "country": "독일",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "케난 카라만",
+          "club": "샬케 04",
+          "league": "분데스리가",
+          "position": "스트라이커",
+          "role": "완성형 공격수",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "엘버스베르크": {
+      "club": "엘버스베르크",
+      "league": "분데스리가",
+      "country": "독일",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "파울 바너",
+          "club": "엘버스베르크",
+          "league": "분데스리가",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "파더보른": {
+      "club": "파더보른",
+      "league": "분데스리가",
+      "country": "독일",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "스벤 미헬",
+          "club": "파더보른",
+          "league": "분데스리가",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "인터 밀란": {
+      "club": "인터 밀란",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "라우타로 마르티네스",
+          "club": "인터 밀란",
+          "league": "세리에 A",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 82,
+          "potentialRating": 84,
+          "rating": 82,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "AC 밀란": {
+      "club": "AC 밀란",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "하파엘 레앙",
+          "club": "AC 밀란",
+          "league": "세리에 A",
+          "position": "윙어",
+          "role": "인사이드 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "유벤투스": {
+      "club": "유벤투스",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "케난 일디즈",
+          "club": "유벤투스",
+          "league": "세리에 A",
+          "position": "윙어",
+          "role": "인사이드 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "나폴리": {
+      "club": "나폴리",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "스콧 맥토미니",
+          "club": "나폴리",
+          "league": "세리에 A",
+          "position": "중앙 미드필더",
+          "role": "박스 투 박스",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "AS 로마": {
+      "club": "AS 로마",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "파울로 디발라",
+          "club": "AS 로마",
+          "league": "세리에 A",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "아탈란타": {
+      "club": "아탈란타",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "샤를 더케텔라러",
+          "club": "아탈란타",
+          "league": "세리에 A",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "볼로냐": {
+      "club": "볼로냐",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "리카르도 오르솔리니",
+          "club": "볼로냐",
+          "league": "세리에 A",
+          "position": "윙어",
+          "role": "인버티드 윙어",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "피오렌티나": {
+      "club": "피오렌티나",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "모이세 킨",
+          "club": "피오렌티나",
+          "league": "세리에 A",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "라치오": {
+      "club": "라치오",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "마티아 자카니",
+          "club": "라치오",
+          "league": "세리에 A",
+          "position": "윙어",
+          "role": "인사이드 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "토리노": {
+      "club": "토리노",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "두반 사파타",
+          "club": "토리노",
+          "league": "세리에 A",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "코모": {
+      "club": "코모",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "니코 파스",
+          "club": "코모",
+          "league": "세리에 A",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "제노아": {
+      "club": "제노아",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "루슬란 말리노우스키",
+          "club": "제노아",
+          "league": "세리에 A",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "칼리아리": {
+      "club": "칼리아리",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "세바스티아노 에스포지토",
+          "club": "칼리아리",
+          "league": "세리에 A",
+          "position": "스트라이커",
+          "role": "완성형 공격수",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "파르마": {
+      "club": "파르마",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "아드리안 베르나베",
+          "club": "파르마",
+          "league": "세리에 A",
+          "position": "중앙 미드필더",
+          "role": "박스 투 박스",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "사수올로": {
+      "club": "사수올로",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "도메니코 베라르디",
+          "club": "사수올로",
+          "league": "세리에 A",
+          "position": "윙어",
+          "role": "인버티드 윙어",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "우디네세": {
+      "club": "우디네세",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "로렌초 루카",
+          "club": "우디네세",
+          "league": "세리에 A",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "레체": {
+      "club": "레체",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "니콜라 크르스토비치",
+          "club": "레체",
+          "league": "세리에 A",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "프로시노네": {
+      "club": "프로시노네",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "안토니오 라이몬도",
+          "club": "프로시노네",
+          "league": "세리에 A",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "몬차": {
+      "club": "몬차",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "구스타보 바렐라",
+          "club": "몬차",
+          "league": "세리에 A",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "베네치아": {
+      "club": "베네치아",
+      "league": "세리에 A",
+      "country": "이탈리아",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "요엘 포흐얀팔로",
+          "club": "베네치아",
+          "league": "세리에 A",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "파리 생제르맹": {
+      "club": "파리 생제르맹",
+      "league": "리그 1",
+      "country": "프랑스",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "우스만 뎀벨레",
+          "club": "파리 생제르맹",
+          "league": "리그 1",
+          "position": "윙어",
+          "role": "인버티드 윙어",
+          "currentRating": 82,
+          "potentialRating": 84,
+          "rating": 82,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "마르세유": {
+      "club": "마르세유",
+      "league": "리그 1",
+      "country": "프랑스",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "메이슨 그린우드",
+          "club": "마르세유",
+          "league": "리그 1",
+          "position": "윙어",
+          "role": "인버티드 윙어",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "AS 모나코": {
+      "club": "AS 모나코",
+      "league": "리그 1",
+      "country": "프랑스",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "마그네스 아클리우슈",
+          "club": "AS 모나코",
+          "league": "리그 1",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "릴": {
+      "club": "릴",
+      "league": "리그 1",
+      "country": "프랑스",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "에돈 제그로바",
+          "club": "릴",
+          "league": "리그 1",
+          "position": "윙어",
+          "role": "인버티드 윙어",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "리옹": {
+      "club": "리옹",
+      "league": "리그 1",
+      "country": "프랑스",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "라얀 셰르키",
+          "club": "리옹",
+          "league": "리그 1",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "랑스": {
+      "club": "랑스",
+      "league": "리그 1",
+      "country": "프랑스",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "플로리안 소토카",
+          "club": "랑스",
+          "league": "리그 1",
+          "position": "스트라이커",
+          "role": "완성형 공격수",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "스트라스부르": {
+      "club": "스트라스부르",
+      "league": "리그 1",
+      "country": "프랑스",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "엠마누엘 에메가",
+          "club": "스트라스부르",
+          "league": "리그 1",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "렌": {
+      "club": "렌",
+      "league": "리그 1",
+      "country": "프랑스",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "아민 구이리",
+          "club": "렌",
+          "league": "리그 1",
+          "position": "스트라이커",
+          "role": "완성형 공격수",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "니스": {
+      "club": "니스",
+      "league": "리그 1",
+      "country": "프랑스",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "테렘 모피",
+          "club": "니스",
+          "league": "리그 1",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "브레스트": {
+      "club": "브레스트",
+      "league": "리그 1",
+      "country": "프랑스",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "뤼도빅 아조르크",
+          "club": "브레스트",
+          "league": "리그 1",
+          "position": "스트라이커",
+          "role": "침투형 포워드",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "툴루즈": {
+      "club": "툴루즈",
+      "league": "리그 1",
+      "country": "프랑스",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "얀 보호",
+          "club": "툴루즈",
+          "league": "리그 1",
+          "position": "스트라이커",
+          "role": "완성형 공격수",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "파리 FC": {
+      "club": "파리 FC",
+      "league": "리그 1",
+      "country": "프랑스",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "일란 케발",
+          "club": "파리 FC",
+          "league": "리그 1",
+          "position": "공격형 미드필더",
+          "role": "전진형 플레이메이커",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "로리앙": {
+      "club": "로리앙",
+      "league": "리그 1",
+      "country": "프랑스",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "로랑 아베르겔",
+          "club": "로리앙",
+          "league": "리그 1",
+          "position": "중앙 미드필더",
+          "role": "박스 투 박스",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "오세르": {
+      "club": "오세르",
+      "league": "리그 1",
+      "country": "프랑스",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "라신 시나요코",
+          "club": "오세르",
+          "league": "리그 1",
+          "position": "스트라이커",
+          "role": "완성형 공격수",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "트루아": {
+      "club": "트루아",
+      "league": "리그 1",
+      "country": "프랑스",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "마마 발데",
+          "club": "트루아",
+          "league": "리그 1",
+          "position": "스트라이커",
+          "role": "완성형 공격수",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "르망": {
+      "club": "르망",
+      "league": "리그 1",
+      "country": "프랑스",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "마마두 사마사",
+          "club": "르망",
+          "league": "리그 1",
+          "position": "골키퍼",
+          "role": "골키퍼",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "앙제": {
+      "club": "앙제",
+      "league": "리그 1",
+      "country": "프랑스",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "히마드 압델리",
+          "club": "앙제",
+          "league": "리그 1",
+          "position": "중앙 미드필더",
+          "role": "박스 투 박스",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    },
+    "르아브르": {
+      "club": "르아브르",
+      "league": "리그 1",
+      "country": "프랑스",
+      "source": "2026-27 프로젝트 구단 목록",
+      "rosterStatus": "대표 선수 1명만 포함; 전체 등록 선수 명단 보강 필요",
+      "players": [
+        {
+          "id": "seed:",
+          "name": "압둘라예 투레",
+          "club": "르아브르",
+          "league": "리그 1",
+          "position": "중앙 미드필더",
+          "role": "박스 투 박스",
+          "currentRating": 78,
+          "potentialRating": 81,
+          "rating": 78,
+          "age": null,
+          "nationality": "미확인",
+          "source": "프로젝트 대표 선수 데이터",
+          "ratingBasis": "게임 초기 추정치 — 실제 경기 데이터 검증 전",
+          "verified": false
+        }
+      ],
+      "counts": {
+        "total": 1
+      }
+    }
+  }
+}

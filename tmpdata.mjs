@@ -1,0 +1,1 @@
+import {europeanLeagues,leagueData,starPlayers,starPlayerPositions} from './src/leagues.js'; console.log(JSON.stringify({europeanLeagues,leagueData,starPlayers,starPlayerPositions}));
